@@ -1,1 +1,7 @@
-<h1 class="text-3xl font-bold underline">Hello world!</h1>
+<script>
+	import HeroSection from '../components/HeroSection.svelte';
+	import ItemList from '../components/ItemList.svelte';
+</script>
+
+<HeroSection />
+<ItemList />
