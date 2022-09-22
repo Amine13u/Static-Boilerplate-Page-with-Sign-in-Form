@@ -1,5 +1,5 @@
 <section class="flex justify-center bg-purple-300">
-	<p class="p-10 w-3/4 text-justify text-lg">
+	<p class="p-10 w-3/4 text-justify text-sm sm:text-lg">
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper est ac diam
 		dignissim, at laoreet arcu placerat. Maecenas dui metus, sodales id sollicitudin sit amet,
 		sodales et est. Nam eu eros lacinia, auctor nunc eu, tristique turpis. Maecenas in massa

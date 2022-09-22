@@ -7,3 +7,33 @@
 		@apply font-mono;
 	}
 }
+
+@layer components {
+	.form-input {
+		@apply p-2 rounded w-full border text-sm;
+	}
+}
+
+@layer components {
+	.form-btn {
+		@apply p-2 w-full bg-purple-700 text-white hover:bg-purple-900 rounded;
+	}
+}
+
+@layer components {
+	.form-field {
+		@apply my-5 w-full;
+	}
+}
+
+@layer components {
+	.navbar {
+		@apply px-2 py-3 bg-purple-800 text-white flex justify-between items-center md:px-10;
+	}
+}
+
+@layer components {
+	.item {
+		@apply flex flex-col justify-around items-center m-5 sm:flex-row;
+	}
+}
